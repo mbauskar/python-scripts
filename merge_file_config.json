@@ -1,0 +1,12 @@
+{
+	"to_date": "2016-06-16",
+	"from_date": "2013-08-10",
+	"base_dir": "/home/indictrans/makarand/scripts/ftp",
+	"out_fname": "/home/indictrans/makarand/workspace/python-scripts/output",
+	"include_files": [
+		"Customer_",
+		"socialdata_",
+		"Customer_with_transaction_",
+		"Product_line_per_transaction_"
+	]
+}
